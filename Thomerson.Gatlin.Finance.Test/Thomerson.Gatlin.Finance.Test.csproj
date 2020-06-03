@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Thomerson.Gatlin.Finance.Core\Thomerson.Gatlin.Finance.Core.csproj" />
+    <ProjectReference Include="..\Thomerson.Gatlin.Finance.Model\Thomerson.Gatlin.Finance.Model.csproj" />
+  </ItemGroup>
+
+</Project>

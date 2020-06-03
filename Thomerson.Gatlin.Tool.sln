@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Thomerson.Gatlin.Finance.Core", "Thomerson.Gatlin.Finance.Core\Thomerson.Gatlin.Finance.Core.csproj", "{FB81C5F0-E538-4235-ABF3-D4DC6F755A30}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Thomerson.Gatlin.Finance.Model", "Thomerson.Gatlin.Finance.Model\Thomerson.Gatlin.Finance.Model.csproj", "{5C3E469A-7A00-4930-AD8D-EE8E6B8EF392}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Thomerson.Gatlin.Finance.Test", "Thomerson.Gatlin.Finance.Test\Thomerson.Gatlin.Finance.Test.csproj", "{3E48A218-4A78-4720-A39C-71EC934F9047}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Thomerson.Gatlin.Finance.Unitity", "Thomerson.Gatlin.Finance.Unitity\Thomerson.Gatlin.Finance.Unitity.csproj", "{84CC8161-CE84-4D4E-83AB-6AD9B5F9C83C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thomerson.Gatlin.Finance.WinForm", "Thomerson.Gatlin.Finance.WinForm\Thomerson.Gatlin.Finance.WinForm.csproj", "{E28EB672-F053-496D-8E8D-D7DA75F2AF1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB81C5F0-E538-4235-ABF3-D4DC6F755A30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB81C5F0-E538-4235-ABF3-D4DC6F755A30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB81C5F0-E538-4235-ABF3-D4DC6F755A30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB81C5F0-E538-4235-ABF3-D4DC6F755A30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C3E469A-7A00-4930-AD8D-EE8E6B8EF392}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C3E469A-7A00-4930-AD8D-EE8E6B8EF392}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C3E469A-7A00-4930-AD8D-EE8E6B8EF392}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C3E469A-7A00-4930-AD8D-EE8E6B8EF392}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E48A218-4A78-4720-A39C-71EC934F9047}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E48A218-4A78-4720-A39C-71EC934F9047}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E48A218-4A78-4720-A39C-71EC934F9047}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E48A218-4A78-4720-A39C-71EC934F9047}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84CC8161-CE84-4D4E-83AB-6AD9B5F9C83C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84CC8161-CE84-4D4E-83AB-6AD9B5F9C83C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84CC8161-CE84-4D4E-83AB-6AD9B5F9C83C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84CC8161-CE84-4D4E-83AB-6AD9B5F9C83C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E28EB672-F053-496D-8E8D-D7DA75F2AF1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E28EB672-F053-496D-8E8D-D7DA75F2AF1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E28EB672-F053-496D-8E8D-D7DA75F2AF1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E28EB672-F053-496D-8E8D-D7DA75F2AF1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0075F52E-3A07-4E1D-88BF-A2101BDE8DFE}
+	EndGlobalSection
+EndGlobal
